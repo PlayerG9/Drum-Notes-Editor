@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Drum-Notes-Editor/static/css/main.e6c13ad2.css",
-    "main.js": "/Drum-Notes-Editor/static/js/main.d2a5fcb5.js",
+    "main.css": "/Drum-Notes-Editor/static/css/main.d0709470.css",
+    "main.js": "/Drum-Notes-Editor/static/js/main.53c838a8.js",
     "static/js/787.62449090.chunk.js": "/Drum-Notes-Editor/static/js/787.62449090.chunk.js",
     "index.html": "/Drum-Notes-Editor/index.html",
-    "main.e6c13ad2.css.map": "/Drum-Notes-Editor/static/css/main.e6c13ad2.css.map",
-    "main.d2a5fcb5.js.map": "/Drum-Notes-Editor/static/js/main.d2a5fcb5.js.map",
+    "main.d0709470.css.map": "/Drum-Notes-Editor/static/css/main.d0709470.css.map",
+    "main.53c838a8.js.map": "/Drum-Notes-Editor/static/js/main.53c838a8.js.map",
     "787.62449090.chunk.js.map": "/Drum-Notes-Editor/static/js/787.62449090.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.d2a5fcb5.js"
+    "static/css/main.d0709470.css",
+    "static/js/main.53c838a8.js"
   ]
 }
