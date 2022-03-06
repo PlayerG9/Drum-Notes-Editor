@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/drum-notes-editor/static/css/main.e6c13ad2.css",
+    "main.js": "/drum-notes-editor/static/js/main.098845ab.js",
+    "static/js/787.62449090.chunk.js": "/drum-notes-editor/static/js/787.62449090.chunk.js",
+    "index.html": "/drum-notes-editor/index.html",
+    "main.e6c13ad2.css.map": "/drum-notes-editor/static/css/main.e6c13ad2.css.map",
+    "main.098845ab.js.map": "/drum-notes-editor/static/js/main.098845ab.js.map",
+    "787.62449090.chunk.js.map": "/drum-notes-editor/static/js/787.62449090.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.098845ab.js"
+  ]
+}
